@@ -13,7 +13,7 @@ Graduate Cybersecurity Program 			       (January 2024- Present)
 - Supported security operations by analyzing logs and identifying abnormal system activity.
 # Projects
 Incident Response and Digital Forensics Investigation
-	•	Investigated simulated cyber incidents using forensic tools to identify attack vectors and compromised systems.
-	•	Verified data integrity using MD5 and SHA hashing, ensuring evidence authenticity. 
-	•	Reconstructed attack timelines to support incident response investigations. 
+- Investigated simulated cyber incidents using forensic tools to identify attack vectors and compromised systems.
+- Verified data integrity using MD5 and SHA hashing, ensuring evidence authenticity.
+- Reconstructed attack timelines to support incident response investigations. 
 
