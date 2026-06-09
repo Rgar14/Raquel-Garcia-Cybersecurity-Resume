@@ -44,6 +44,6 @@ Mobile Forensics Evidence Review
 
 # Education
 University of San Diego- San Diego, CA
-Master of Science- Cyber Security Operations and Leadership                       (May 2026)
+	Master of Science- Cyber Security Operations and Leadership                       (May 2026)
 University of California, Santa Cruz- Santa Cruz, CA
 Bachelor of Arts- General Psychology		                                          (June 2021)
