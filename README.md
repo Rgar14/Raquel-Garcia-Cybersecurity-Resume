@@ -1,7 +1,7 @@
 # Raquel-Garcia-Cybersecurity-Resume
 Detail oriented cybersecurity graduate student with hands-on experience in incident response, digital forensic, and threat detection across Windows, macOS, and Linux environments. Skilled in vulnerability analysis, security operations, and forensic investigations using industry tools. Proven ability to analyze security incidents, identify threats, and support secure system operations. Seeking an entry level cybersecurity or IT security role to apply technical and analytical skills in real world operations. 
 # Professional Experience
-Graduate Cybersecurity Program 	dd		       (January 2024- Present)
+Graduate Cybersecurity Program 	                	                                             (January 2024- Present)
 - Conducted digitsl forensic investigation on 3+ system images using Autopsy and FTK Imager to analyze system images and recover digital evidence.
 - Performed incident response analysis and threat investigations, improving detection of malicous activity in simulated environments.
 - Completed 15+ hand-on cybersecurity labs and threat simlulations through TryHackMe to practice penetration testing, vulnerability discovery, and defensive security techniques.
