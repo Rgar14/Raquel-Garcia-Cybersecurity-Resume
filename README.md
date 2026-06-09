@@ -2,7 +2,7 @@
 Detail oriented cybersecurity graduate student with hands-on experience in incident response, digital forensic, and threat detection across Windows, macOS, and Linux environments. Skilled in vulnerability analysis, security operations, and forensic investigations using industry tools. Proven ability to analyze security incidents, identify threats, and support secure system operations. Seeking an entry level cybersecurity or IT security role to apply technical and analytical skills in real world operations. 
 # Professional Experience
 Graduate Cybersecurity Program 			       (January 2024- Present)
-	•	Conducted digital forensic investigations on 3+ system images using Autopsy and FTK Imager to analyze system images and recover digital evidence.
+Conducted digital forensic investigations on 3+ system images using Autopsy and FTK Imager to analyze system images and recover digital evidence.
 	•	Performed incident response analysis and threat investigations, improving detection of malicious activity in simulated environments.
 	•	Completed 15+ hands-on cybersecurity labs and threat simulations through TryHackMe to practice penetration testing, vulnerability discovery, and defensive security techniques.
 	•	Designed enterprise security architecture frameworks to protect organizational networks, cloud systems, and IoT environments from cyber threats.  
