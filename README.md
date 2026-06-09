@@ -11,3 +11,4 @@ Graduate Cybersecurity Program 			       (January 2024- Present)
 - Developed threat intelligence assessment using open source intelligence to anticipate cyber threats.
 - Implement blue team defensive strategies including threat hunting, malware analysis, and detection of abnormal network activity. 
 - Supported security operations by analyzing logs and identifying abnormal system activity.
+# Professional Projects
