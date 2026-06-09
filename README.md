@@ -11,4 +11,9 @@ Graduate Cybersecurity Program 			       (January 2024- Present)
 - Developed threat intelligence assessment using open source intelligence to anticipate cyber threats.
 - Implement blue team defensive strategies including threat hunting, malware analysis, and detection of abnormal network activity. 
 - Supported security operations by analyzing logs and identifying abnormal system activity.
-# Professional Projects
+# Projects
+Incident Response and Digital Forensics Investigation
+	•	Investigated simulated cyber incidents using forensic tools to identify attack vectors and compromised systems.
+	•	Verified data integrity using MD5 and SHA hashing, ensuring evidence authenticity. 
+	•	Reconstructed attack timelines to support incident response investigations. 
+
