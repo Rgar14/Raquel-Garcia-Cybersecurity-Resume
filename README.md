@@ -16,4 +16,24 @@ Incident Response and Digital Forensics Investigation
 - Investigated simulated cyber incidents using forensic tools to identify attack vectors and compromised systems.
 - Verified data integrity using MD5 and SHA hashing, ensuring evidence authenticity.
 - Reconstructed attack timelines to support incident response investigations. 
+Email Encryption & Authentication Lab (Cryptography)
+- Implemented secure email encryption using OpenPGP to apply public-key cryptography for secure communication.
+- Configured encrypted email exchange within Mozilla Thunderbird to practice encryption, decryption, and digital signatures.
+- Generated and managed public and private cryptographic key pairs for secure message transmission.
+- Analyzed email authentication mechanisms using DomainKeys Identified Mail to verify sender identity and detect spoofed emails.
+- Examined email headers and DKIM signatures to identify trusted versus suspicious messages.
+Cryptanalysis: Breaking Classical Ciphers
+- Performed cryptanalysis of mono-alphabetic substitution ciphers using frequency analysis techniques to recover plaintext and determine substitution keys.
+- Applied statistical analysis of letter frequency, bigrams, and trigrams to decode encrypted messages.
+- Cracked a Vigenère poly-alphabetic cipher using pattern recognition and cryptanalysis tools.
+- Demonstrated understanding of classical encryption weaknesses and methods used in modern cryptanalysis.
+Public: Key Encryption & Key Management 
+- Implemented the RSA algorithm to demonstrate public-key encryption and secure key exchange.
+- Practiced encryption and decryption processes while securely sharing cryptographic keys with a project partner.
+- Demonstrated key recovery and key escrow techniques to simulate enterprise key management practices.
+- Utilized structured lab workbooks to perform cryptographic calculations and validate encryption outputs.
+Blue Team Threat Hunting
+- Used TryHackMe to practice detecting malware, lateral movement, and command and control activity in simulated environments. 
+Mobile Forensics Evidence Review
+- Analyzed mobile device forensic data using Cellebrite Reader to extract and interpret digital artifacts
 
